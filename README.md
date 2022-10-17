@@ -12,6 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosteinmuller&show_icons=true&locale=en&layout=compact" alt="pedrosteinmuller" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosteinmuller&show_icons=true&locale=en" alt="pedrosteinmuller" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosteinmuller&show_icons=true&&theme=dark&locale=en" alt="pedrosteinmuller" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosteinmuller&" alt="pedrosteinmuller" /></p>
+
