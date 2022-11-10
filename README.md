@@ -10,7 +10,7 @@ export default {
   linkedin: 'https://www.linkedin.com/in/pedrosteinmuller/',
   contato: '(83) 98775-4348',
   description: {
-    myProfile: `Tenho 26 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG)-(Cosmologia).
+    myProfile: `Tenho 26 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
       Fiz a transição de carreira para a área da programação e está sendo uma experiência incrível e única,
       sempre gostei de tecnologia e tinha curiosidades de entender o funcionamento e sua construção,
       mas a vontade de cursar Física primeiro foi maior. 
@@ -45,10 +45,11 @@ export default {
 <a href="https://www.instagram.com/pedrosteinmuller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pedrosteinmuller/" height="30" width="40" /></a>
 </p>
 
-   
+   <br>
   <div>
     <h2 align="center">GitHub Profile Stats </h2>
       <br/>
+             <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosteinmuller" alt="pedrosteinmuller" /></a> </p>
   <h3>💻 Languages</h3>
             <p align="center">
         <a href="https://github.com/pedrosteinmuller/">
