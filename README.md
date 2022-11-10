@@ -58,8 +58,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosteinmuller&theme=dark" alt="pedrosteinmuller" /></p>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/pedrosteinmuller/pedrosteinmuller/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake animation](https://github.com/{{pedrosteinmuller}}/{{pedrosteinmuller}}/blob/output/github-contribution-grid-snake.svg)
