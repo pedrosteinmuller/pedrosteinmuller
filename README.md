@@ -49,21 +49,50 @@ export default {
   <div>
     <h2 align="center">GitHub Profile Stats </h2>
       <br/>
-             <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosteinmuller" alt="pedrosteinmuller" /></a> </p>
-  <h3>💻 Languages</h3>
-            <p align="center">
-        <a href="https://github.com/pedrosteinmuller/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosteinmuller&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="pedrosteinmuller :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/pedrosteinmuller/">
-          <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrosteinmuller&theme=gruvbox&layout=compact&hide_border=true"
-          alt="pedrosteinmuller :: Top Langs by repo" />
-          <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrosteinmuller&theme=gruvbox&layout=compact&hide_border=true"
-          alt="pedrosteinmuller :: Top Langs by commit" />
-          </a>
-        </p>
+     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosteinmuller" alt="pedrosteinmuller" /></a> </p>
+  
+  <h3 align="center">Linguagens e Ferramentas:</h3>
+<table align="center">
+  <tr>
+    <th>Linguagens</th>
+    <th>Front-End</th>
+    <th>Back-end</th>
+    <th>Tests</th>
+    <th>Others</th>
+  </tr>
+  <tr>
+    <td>
+     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+    <td>
+      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+      <img align="center" alt="bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </td>
+    <td>
+       <img align="center" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+       <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+       <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+       <img align="center" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+       <img align="center" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/>
+    </td>
+    <td>
+       <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    </td>
+    <td>
+       <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+       <img align="center" alt="vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+       <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    </td>
+  </tr>
+</table>
+
+<br />
+  
   <h3>📊 Stasistic</h3>
         <p align="center">
           <a href="https://github.com/pedrosteinmuller/">
