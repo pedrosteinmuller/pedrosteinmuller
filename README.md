@@ -1,56 +1,20 @@
-# ABOUT ME 👋
+<h1 align="center">Olá 👋, eu sou o Pedro Steinmüller Pimentel</h1>
+<h3 align="center">Desenvolvedor Web FullStack apaixonado por tecnologia, física e games.</h3>
 
-```javascript
-export default {
-  name: 'Pedro Steinmüller Pimentel',
-  from: 'Campina Grande, PB, Brasil',
-  profession: 'Estudante de Desenvolvimento Web FullStack',
-  hobbies: ['Ouvir Rock', 'Pilotar moto', 'Ler assuntos sobre Física', 'Games', 'Animes'],
-  email: ['pedrosteinmuller10105@hotmail.com', 'pedrosteinmuller100@gmail.com'],
-  linkedin: 'https://www.linkedin.com/in/pedrosteinmuller/',
-  contato: '(83) 98775-4348',
-  description: {
-    myProfile: `Tenho 26 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
-      Fiz a transição de carreira para a área da programação e está sendo uma experiência incrível e única,
-      sempre gostei de tecnologia e tinha curiosidades de entender o funcionamento e sua construção,
-      mas a vontade de cursar Física primeiro foi maior. 
-      Hoje, continuo meus estudos de desenvolvedor web FullStack na Trybe e atualmente sou Desenvolvedor Front-End Junior,
-      agarrando uma nova perspectiva de futuro.`,
-    myObjective: `De forma contínua, aprimorar meus conhecimentos como desenvolvedor Full Stack,
-      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
-  },
-  skills: {
-    languages: [
-      'Javascript',
-    ],
-    backend: [
-      'Docker',
-    ],
-    frontend: [
-      'HTML5', 'CSS3', 'Javascript',
-      'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Jest',
-    ],
-    tools: [
-      'Git', 'Github',
-    ],
-  },
-};
-```
-<br/>
+Tenho 26 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
+Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
+Desde a minha infância, sempre fui curioso em entender como as coisas funcionavam no mundo da tecnologia, como os jogos eram desenvolvidos, qual a lógica por trás do funcionamento de sites, aplicativos, etc. Após passar por diversas experiências na área da Física como aluno, docente e pesquisador, senti que faltava algo, e então me dei a oportunidade de estudar programação, e realizar a transição de carreira foi uma decisão que está me deixando feliz e cada vez mais apaixonado pela tecnologia.
 
-<h3 align="left">Connect with me:</h3>
+Atualmente estou me formando como desenvolvedor na Trybe, cursando Desenvolvimento Web FullStack e com previsão de conclusão em maio de 2023.
+
+<h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-steinm%C3%BCller-pimentel-8b0788129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-steinmüller-pimentel-8b0788129" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pedrosteinmuller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pedrosteinmuller/" height="30" width="40" /></a>
+<a href="https://twitter.com/pedrosteinm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedrosteinm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedrosteinmuller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrosteinmuller" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pedrosteinmuller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pedrosteinmuller/" height="30" width="40" /></a>
+<p> Email: pedrosteinmuller100@gmail.com / pedrosteinmuller10105@hotmail.com </p>
 </p>
 
-   <br>
-  <div>
-    <h2 align="center">GitHub Profile Stats </h2>
-      <br/>
-     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosteinmuller" alt="pedrosteinmuller" /></a> </p>
-  
   <h3 align="center">Linguagens e Ferramentas:</h3>
 <table align="center">
   <tr>
@@ -92,26 +56,11 @@ export default {
 </table>
 
 <br />
-  
-  <h3>📊 Stasistic</h3>
-        <p align="center">
-          <a href="https://github.com/pedrosteinmuller/">
-          <img width="35%" src="https://github-readme-stats.vercel.app/api?username=pedrosteinmuller&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosteinmuller&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-  
-  <h3>📈 Latest Activity Graph</h3>
-  <br/>
-  <h2 align="center"> Latest Contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=pedrosteinmuller&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosteinmuller&show_icons=true&theme=onedark&locale=en&layout=compact" alt="pedrosteinmuller" /></p>
 
- ## Snake eating my contribution graph 
- ![snake gif](https://github.com/pedrosteinmuller/pedrosteinmuller/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosteinmuller&theme=onedark" alt="pedrosteinmuller" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosteinmuller&show_icons=true&theme=onedark&locale=en" alt="pedrosteinmuller" /></p>
+
+  
