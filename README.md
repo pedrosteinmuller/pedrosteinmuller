@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Steinmüller Pimentel</h1>
 <h3 align="center">Desenvolvedor Web FullStack apaixonado por tecnologia, física e games.</h3>
 
-Tenho 27 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
+Tenho 28 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
 Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
 Desde a minha infância, sempre fui curioso em entender como as coisas funcionavam no mundo da tecnologia, como os jogos eram desenvolvidos, qual a lógica por trás do funcionamento de sites, aplicativos, etc. Após passar por diversas experiências na área da Física como aluno, docente e pesquisador, senti que faltava algo, e então me dei a oportunidade de estudar programação, e realizar a transição de carreira foi uma decisão que está me deixando feliz e cada vez mais apaixonado pela tecnologia.
 
-Em junho de 2023, finalizei o curso de Desenvolvimento Web Full Stack na Trybe. O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. Estou ansioso para iniciar a minha carreira como programador!
+Em junho de 2023, finalizei o curso de Desenvolvimento Web Full Stack na Trybe. O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. Em novembro de 2023 tive a minha primeira oportunidade como programador, no cargo de analista de dados durante o período de 8 meses, onde pude colocar em prática todos os meus conhecimentos e adquirindo novos. Gosto muito de estudar e conhecer coisas novas, movido a desafios metas!
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
