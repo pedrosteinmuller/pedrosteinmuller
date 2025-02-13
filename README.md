@@ -1,11 +1,22 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Steinmüller Pimentel</h1>
-<h3 align="center">Desenvolvedor Web FullStack apaixonado por tecnologia, física e games.</h3>
+<h3>🎯 Analista de Dados, Desenvolvedor Web FullStack e mestre em Física na área de Cosmologia e Gravitação.</h3>
 
-Tenho 28 anos, natural de Campina Grande - PB, sou graduado(UEPB) e mestre em Física(UFCG).
-Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
-Desde a minha infância, sempre fui curioso em entender como as coisas funcionavam no mundo da tecnologia, como os jogos eram desenvolvidos, qual a lógica por trás do funcionamento de sites, aplicativos, etc. Após passar por diversas experiências na área da Física como aluno, docente e pesquisador, senti que faltava algo, e então me dei a oportunidade de estudar programação, e realizar a transição de carreira foi uma decisão que está me deixando feliz e cada vez mais apaixonado pela tecnologia.
+Tenho 28 anos, natural de Campina Grande - PB. Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
+Analista de Dados, Pesquisador Científico e Mestre em Física com vasta experiência em resolução de problemas complexos e análise de grandes volumes de dados em cenários empresariais e científicos.
 
-Em junho de 2023, finalizei o curso de Desenvolvimento Web Full Stack na Trybe. O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. Em novembro de 2023 tive a minha primeira oportunidade como programador, no cargo de analista de dados durante o período de 8 meses, onde pude colocar em prática todos os meus conhecimentos e adquirindo novos. Gosto muito de estudar e conhecer coisas novas, movido a desafios metas!
+## 🚀 Tecnologias e Ferramentas  
+
+- **Linguagens e Análise de Dados**: Python, Pandas, SQL, Apache Spark, PySpark;
+- **Big Data & Cloud**: Google Cloud Platform (GCP), BigQuery; 
+- **Bancos de Dados**: PostgreSQL, MySQL, MariaDB, MongoDB;  
+- **Desenvolvimento e Automação**: Docker, API Rest, ETL, CI/CD; 
+- **Metodologias**: Scrum, Kanban, TDD;
+- **Conhecimentos adicionais**: Já desenvolvi projetos de front-end, back-end e testes, utilizando tecnologias como HTML, CSS, JavaScript, React, Redux, TypeScript, Node.js, Docker, API Rest, Jest, RTL, Mocha, Chai e TDD;
+- **Inglês**: Intermediário-avançado.
+
+## 🔬 Background Científico  
+
+Trabalhei como pesquisador na área de **Cosmologia e Gravitação**, analisando grandes volumes de dados e validando teorias físicas. Essa experiência me proporcionou uma forte base em estatística, modelagem matemática e resolução de problemas complexos.
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
