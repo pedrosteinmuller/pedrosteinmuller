@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Steinmüller Pimentel</h1>
 <h3>🎯 Analista de Dados, Desenvolvedor Web FullStack e MSc em Física.</h3>
 
-Tenho 28 anos, natural de Campina Grande - PB. Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
-Analista de Dados, Pesquisador Científico e Mestre em Física com vasta experiência em resolução de problemas complexos e análise de grandes volumes de dados em cenários empresariais e científicos.
+Tenho 29 anos, natural de Campina Grande - PB. Gosto de estar em constante processo de aprendizagem, aprender coisas novas e de me desafiar.
+Analista de Dados com 4 anos de experiência, Pesquisador Científico e Mestre em Física com habilidades em resolução de problemas complexos e análise de grandes volumes de dados em cenários empresariais e científicos.
 
 ## 🚀 Tecnologias e Ferramentas  
 
