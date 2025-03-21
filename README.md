@@ -6,12 +6,13 @@ Analista de Dados com 4 anos de experiência, Pesquisador Científico e Mestre e
 
 ## 🚀 Tecnologias e Ferramentas  
 
-- **Linguagens e Análise de Dados**: Python, Pandas, SQL, Apache Spark, PySpark;
+- **Linguagens e Análise de Dados**: Python, Pandas, NumPy, SQL, Apache Spark, PySpark, Databricks;
+- **Ferramentas de Visualização**: PowerBi, Matplotlib, Seaborn;
 - **Big Data & Cloud**: Google Cloud Platform (GCP), BigQuery; 
-- **Bancos de Dados**: PostgreSQL, MySQL, MariaDB, MongoDB;  
-- **Desenvolvimento e Automação**: Docker, API Rest, ETL, CI/CD; 
+- **Bancos de Dados**: PostgreSQL, MySQL, MongoDB;  
+- **Desenvolvimento e Automação**: Docker, API Rest, ETL, Automação com Scripts em Python; 
 - **Metodologias**: Scrum, Kanban, TDD;
-- **Conhecimentos adicionais**: Já desenvolvi projetos de front-end, back-end e testes, utilizando tecnologias como HTML, CSS, JavaScript, React, Redux, TypeScript, Node.js, Docker, API Rest, Jest, RTL, Mocha, Chai e TDD;
+- **Conhecimentos adicionais**: HTML, CSS, JavaScript, React, Redux, TypeScript, Node.js, Docker, API Rest, Jest, RTL, Mocha, Chai e TDD;
 - **Inglês**: Intermediário-avançado.
 
 ## 🔬 Background Científico  
