@@ -25,6 +25,7 @@ Trabalhei como pesquisador na área de **Cosmologia e Gravitação**, analisando
 <a href="https://linkedin.com/in/pedrosteinmuller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrosteinmuller" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pedrosteinmuller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pedrosteinmuller/" height="30" width="40" /></a>
 <p> Email: pedrosteinmuller100@gmail.com / pedrosteinmuller10105@hotmail.com </p>
+<p> Portfólio: https://portfolio-pedro-steinmuller-pimentel.vercel.app/ </p>
 </p>
 
   <h3 align="center">Linguagens e Ferramentas:</h3>
